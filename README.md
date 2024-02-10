@@ -63,6 +63,3 @@ deactivate
 
 - Make sure to activate the virtual environment every time you work on the project to ensure that you're using the correct dependencies.
 - It's recommended to keep your virtual environment folder (`venv` in this case) out of version control by adding it to your `.gitignore` file.
-```
-
-Feel free to customize this README file according to your project's specific requirements and instructions.
