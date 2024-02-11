@@ -1,5 +1,3 @@
-
-
 # Python Virtual Environment Setup
 
 This repository contains a Python project that utilizes a virtual environment for dependency management. Follow the instructions below to set up and run the project in your local environment.
